@@ -1,0 +1,7 @@
+.my-label {
+  display: inline-block;
+  min-width: 100px;
+}
+.required {
+  color: red;
+}
